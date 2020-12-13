@@ -1,3 +1,5 @@
+**注意：本项目为Fork**
+
 # AutoApiSR-模仿人为开发版
 
 AutoApi系列：AutoApi、AutoApiSecret、AutoApiSR
